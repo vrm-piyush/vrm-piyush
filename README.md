@@ -60,9 +60,9 @@
 
 <details><summary> Connect with me </summary>
 <div align="center">
-<a href="https://twitter.com/vrm_piyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrm_piyush" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/piyush verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush verma" height="30" width="40" /></a>
-<a href="https://instagram.com/vrm_piyush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrm_piyush" height="30" width="40" /></a>
+<a href="https://twitter.com/vrm_piyush" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrm_piyush" height="30" width="40" /></kbd></a>
+<a href="https://linkedin.com/in/piyush verma" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush verma" height="30" width="40" /></kbd></a>
+<a href="https://instagram.com/vrm_piyush" target="blank"><kbd><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrm_piyush" height="30" width="40" /></kbd></a>
 </div>  
 </details>
 <br />
