@@ -4,7 +4,6 @@
 <img src="https://github.com/rishavanand/github-profilinator/blob/66d21965acb8d37288d0964c0c7ec19bbc6efd47/src/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
-
 <br />
 
 ### About me  
@@ -34,8 +33,7 @@
 <img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br />
-
+<br/>
 <br/>  
  
 ### Connect with me
@@ -50,11 +48,7 @@
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 📫 How to reach me **piyushvrm072001@gmail.com**
   
-
 ## Github Stats  
-<br/>
-<br/>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrm-piyush&show_icons=true&locale=en&layout=compact" alt="vrm-piyush" /></p>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vrm-piyush&show_icons=true&count_private=true" align="center" /></div>  
